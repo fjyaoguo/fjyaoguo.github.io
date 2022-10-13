@@ -1,4 +1,4 @@
-﻿#Facebook Ad Network
+#Facebook Ad Network
 facebook.com, 1123956531565397, RESELLER, с3e20eee3f780d68
 
 #Adcolony
